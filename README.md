@@ -21,8 +21,8 @@
 
 _**1.Word Tracker:**_ Highlights or tracks the words that are selected by clicking on them or by using left/right arrow keys.
 
-_**2.Font Change:**_ Several Options given like:\
-* Font: OpenDyslexic Font\
+_**2.Font Change:**_ Several Options are given, like:
+* Font: OpenDyslexic Font
 * Font-Style: Reguler, Italic, Bold, Bold-Italic
 * Font-Size
 
