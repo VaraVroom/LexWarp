@@ -2,28 +2,28 @@
 
 @font-face {
     font-family: "opendyslexic-regular";
-    src: url('chrome-extension://nofcpapmmadcpegcclcggfancicjpmpl/fonts/OpenDyslexic-Regular.otf');
+    src: url('chrome-extension://_Your_Extension_Id/fonts/OpenDyslexic-Regular.otf');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
 	font-family: 'opendyslexic-italic';
-	src: url('chrome-extension://nofcpapmmadcpegcclcggfancicjpmpl/fonts/OpenDyslexic-Italic.otf');
+	src: url('chrome-extension://_Your_Extension_Id/fonts/OpenDyslexic-Italic.otf');
 	font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'opendyslexic-bold';
-	src: url('chrome-extension://nofcpapmmadcpegcclcggfancicjpmpl/fonts/OpenDyslexic-Bold.otf');
+	src: url('chrome-extension://_Your_Extension_Id/fonts/OpenDyslexic-Bold.otf');
 	font-weight: bold;
 	font-style: normal;
 } 
 
 @font-face {
 	font-family: 'opendyslexic-bolditalic';
-	src: url('chrome-extension://nofcpapmmadcpegcclcggfancicjpmpl/fonts/OpenDyslexic-BoldItalic.otf');
+	src: url('chrome-extension://_Your_Extension_Id/fonts/OpenDyslexic-BoldItalic.otf');
 	font-weight: bold;
 	font-style: italic;
 }  
