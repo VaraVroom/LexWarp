@@ -7,10 +7,8 @@
 1. Phoentic & Letter Jumping: Phonemes, letters etc get swapped
 2. Movement due to jumping.
 3. Vertical Jumping: Words jumps vertically.
-4. Part of character Observability: [See here](https://danielbritton.info/dyslexia/)
-5. Letters getting rotated: Can be fixed by having bottom heavy font.  [See here](https://edition.cnn.com/2016/03/05/health/dyslexia-simulation/index.html)
-6. Horizontal Jumping: Words jumps horizontally (very rarely).
-7. POV of people with Dyslexia: [See here](https://geon.github.io/programming/2016/03/03/dsxyliea)
+4. Horizontal Jumping: Words jumps horizontally (very rarely).
+5. POV of people with Dyslexia: [See here](https://geon.github.io/programming/2016/03/03/dsxyliea)
 
 
 
